@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan4me&label=Profile%20views&color=0e75b6&style=flat" alt="aryan4me" /> </p>
 
-- 🌱 I’m currently learning **Fronted Developing**
+- 🌱 I’m currently learning **Frontend Developing**
 
 - 👨‍💻 All of my projects are available at [https://sk-portfoli0.netlify.app/](https://sk-portfoli0.netlify.app/)
 
