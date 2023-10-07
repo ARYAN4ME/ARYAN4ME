@@ -1,4 +1,4 @@
-![logo](https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg)
+![logo](https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_640.jpg)
 <h1 align="center">Hi 👋, I'm Mohit Prajapati</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="codding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c0ZHRieGp6d29jZm12YXlsNHpnN3BhOWdyZ2Y3Z2Vjb2d2NjQzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
